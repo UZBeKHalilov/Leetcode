@@ -1,0 +1,15 @@
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\bin\Debug\net9.0\Leetcode.exe
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\bin\Debug\net9.0\Leetcode.deps.json
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\bin\Debug\net9.0\Leetcode.runtimeconfig.json
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\bin\Debug\net9.0\Leetcode.dll
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\bin\Debug\net9.0\Leetcode.pdb
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\obj\Debug\net9.0\Leetcode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\obj\Debug\net9.0\Leetcode.AssemblyInfoInputs.cache
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\obj\Debug\net9.0\Leetcode.AssemblyInfo.cs
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\obj\Debug\net9.0\Leetcode.csproj.CoreCompileInputs.cache
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\obj\Debug\net9.0\Leetcode.sourcelink.json
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\obj\Debug\net9.0\Leetcode.dll
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\obj\Debug\net9.0\refint\Leetcode.dll
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\obj\Debug\net9.0\Leetcode.pdb
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\obj\Debug\net9.0\Leetcode.genruntimeconfig.cache
+C:\Users\Abdulloh\Desktop\GitHub\Leetcode\obj\Debug\net9.0\ref\Leetcode.dll
